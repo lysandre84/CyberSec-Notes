@@ -1,0 +1,12 @@
+site_name: CyberSec Notes
+nav:
+  - Home: index.md
+  - Network Security: Docs/Network_Security.md
+  - Web Security: Docs/Web_Security.md
+  - Malware Analysis: Docs/Malware_Analysis.md
+  - Pentesting Tools: Docs/Pentesting_Tools.md
+  - Blue Team Defense: Docs/Blue_Team_Defense.md
+  - OSINT: Docs/OSINT.md
+  - Glossary: Docs/Glossary.md
+theme:
+  name: material

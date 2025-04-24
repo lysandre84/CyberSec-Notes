@@ -1,0 +1,11 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+# Environment
+venv/
+# Build outputs
+site/ *.html
+# Logs and reports
+logs/
+# PyInstaller
+dist/
